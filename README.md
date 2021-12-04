@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasur</h1>
-<h3 align="center">A passionate frontend developer from Tashkent</h3>
+<h3 align="center">I drink coffee, I eat pizza. I write code and improve my skills every day. I am honored to work with special people.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbekoff&label=Profile%20views&color=0e75b6&style=flat" alt="norbekoff" /> </p>
 
