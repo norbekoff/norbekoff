@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbekoff&label=Profile%20views&color=0e75b6&style=flat" alt="norbekoff" /> </p>
 
 
-- 🌱 I’m currently learning **Three js, Typescript and GSAP.**
+- 🌱 I’m currently learning **Three js, Typescript and GSAP**
 
 - 💬 Ask me about **Vue/Nuxt**
 
