@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Vue/Nuxt**
 
-- 📫 How to reach me **jasurbeknorbekov@gmail.com**
+- 📫 How to reach me **https://t.me/norjs**
 
 - ⚡ Fun fact **I use VIM**
 
