@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jasur</h1>
-<h3 align="center">A passionate frontend developer from Tashkent</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=norbekoff&label=Profile%20views&color=0e75b6&style=flat" alt="norbekoff" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norbekoff" alt="norbekoff" /></a> </p>
+
+- 🌱 I’m currently learning **Three js, Typescript and GSAP.**
+
+- 💬 Ask me about **Vue/Nuxt**
+
+- 📫 How to reach me **jasurbeknorbekov@gmail.com**
+
+- ⚡ Fun fact **I use VIM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norbekoff&show_icons=true&locale=en&layout=compact" alt="norbekoff" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norbekoff&show_icons=true&locale=en" alt="norbekoff" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=norbekoff&" alt="norbekoff" /></p>
