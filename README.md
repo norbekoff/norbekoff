@@ -1,7 +1,7 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Introduction</h1>
-<h3 align="center">✨Hi guys, I'm Jasur. I am a JavaScript developer from Tashkent, Uzbekistan. I'm currently working <a href='https://uic.group'>@uicgroup</a> as a Font-End engineer.
+<h2 align="left"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Introduction</h1>
+<p align="center">✨Hi guys, I'm Jasur. I am a JavaScript developer from Tashkent, Uzbekistan. I'm currently working <a href='https://uic.group'>@uicgroup</a> as a Font-End engineer.
 I have done works with JavaScript, Vue and React.  I take great care in the experience, architecture, and code quality of the things I build.
-</h3>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbekoff&label=Profile%20views&color=0e75b6&style=flat" alt="norbekoff" /> </p>
 
