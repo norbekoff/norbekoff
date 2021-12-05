@@ -1,6 +1,6 @@
 <h2 align="left"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Introduction</h1>
 <p align="center">✨Hi guys, I'm Jasur. I am a JavaScript developer from Tashkent, Uzbekistan. I'm currently working @ <a href='https://uic.group'  target="blank">uicgroup</a> as a Font-End engineer.
-I have done works with JavaScript, Vue and React.  I take great care in the experience, architecture, and code quality of the things I build.
+I have done many works with JavaScript, Vue and React out there. Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. I take great care in the experience, architecture, and code quality of the things I build.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbekoff&label=Profile%20views&color=0e75b6&style=flat" alt="norbekoff" /> </p>
@@ -9,9 +9,11 @@ I have done works with JavaScript, Vue and React.  I take great care in the expe
 
 - 🌱 I’m currently learning Three js, GSAP and Typescript
 
-- 💬 Ask me about anything related to Javascript/Typescript or Vue/React/Nuxt/
+- 💬 Ask me about anything related to Javascript or Vue/React/Nuxt/
 
 - 📫 How to reach me: <a href='https://t.me/norjs'  target="blank">@norjs</a> or <a  target="blank" href='https://www.linkedin.com/in/norbekov/'>@norbekov</a>
+
+- 👀 Looking Forward to contribute more to open source projects.
 
 - ⚡ Fun fact I use VIM and I ❤️ 🐶s
 
