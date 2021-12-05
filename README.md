@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jasur</h1>
-<h3 align="center">I drink coffee, I eat pizza. I write code and improve my skills every day. I am honored to work with special people.
+<h1 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Introduction</h1>
+<h3 align="center">✨Hi guys, I'm Jasur. I am a JavaScript developer from Tashkent, Uzbekistan. I'm currently working <a href='https://uic.group'>@uicgroup</a> as a Font-End engineer.
+I have done works with JavaScript, Vue and React.  I take great care in the experience, architecture, and code quality of the things I build.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbekoff&label=Profile%20views&color=0e75b6&style=flat" alt="norbekoff" /> </p>
 
+- 🔭 I’m currently working on something cool 😉
 
-- 🌱 I’m currently learning **Three js, Typescript and GSAP**
+- 🌱 I’m currently learning Three js, GSAP and Typescript*
 
-- 💬 Ask me about **Vue/Nuxt**
+- 💬 Ask me about anything related to Javascript/Typescript or Vue/React/Nuxt/
 
-- 📫 How to reach me **https://t.me/norjs**
+- 📫 How to reach me: <a href='https://t.me/norjs'>@norjs</a> or <a href='https://www.linkedin.com/in/norbekov/'>@norbekov</a>
 
-- ⚡ Fun fact **I use VIM**
+- ⚡ Fun fact I use VIM and I ❤️ 🐶s
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
