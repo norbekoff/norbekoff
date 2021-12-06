@@ -13,7 +13,7 @@ I have done many works with JavaScript, Vue and React out there. Aside from my j
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbekoff&label=Profile%20views&color=0e75b6&style=flat" alt="norbekoff" /> </p>
 
-- 🔭 I’m currently working on something cool <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="18" height="18"/>
+- 🔭 I’m currently working on something cool <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="20" height="20"/>
 
 - 🌱 I’m currently learning Three js, GSAP and Typescript
 
@@ -23,7 +23,7 @@ I have done many works with JavaScript, Vue and React out there. Aside from my j
 
 - 👀 Looking Forward to contribute more to open source projects.
 
-- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="18" height="18"/> Fun fact I use VIM and I ❤️ 🐶s
+- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="20" height="20"/> Fun fact I use VIM and I ❤️ 🐶s
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
