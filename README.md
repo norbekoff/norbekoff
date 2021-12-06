@@ -2,7 +2,9 @@
 
 
 <!-- <img src='https://i.ibb.co/mRh31x3/test.png'/> -->
-<img src='https://i.ibb.co/HFvQFvM/test.png'/>
+<!-- <img src='https://i.ibb.co/HFvQFvM/test.png'/> -->
+<img src='https://i.ibb.co/GQXycf3/testing.png'/>
+
 
 
 <p align="center">✨ Hi guys, I'm Jasur. I am a JavaScript developer from Tashkent, Uzbekistan. I'm currently working @ <a href='https://uic.group'  target="blank">uicgroup</a> as a Font-End engineer.
