@@ -23,7 +23,7 @@ I have done many works with JavaScript, Vue and React out there. Aside from my j
 
 - 👀 Looking Forward to contribute more to open source projects.
 
-- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="16" height="16"/> Fun fact I use VIM and I ❤️ 🐶s
+- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="18" height="18"/> Fun fact I use VIM and I ❤️ 🐶s
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
