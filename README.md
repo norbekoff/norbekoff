@@ -1,7 +1,7 @@
 <h2 align="left"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Introduction</h1>
 
 
-<img src='https://ibb.co/HKGj1Jj'/>
+<img src='https://i.ibb.co/mRh31x3/test.png'/>
 
 
 <p align="center">✨ Hi guys, I'm Jasur. I am a JavaScript developer from Tashkent, Uzbekistan. I'm currently working @ <a href='https://uic.group'  target="blank">uicgroup</a> as a Font-End engineer.
