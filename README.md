@@ -2,13 +2,9 @@
 
 
 <!-- <img src='https://i.ibb.co/mRh31x3/test.png'/> -->
-<!-- <img style='width: 100%' src='https://i.ibb.co/HFvQFvM/test.png' /> -->
-<img  src='https://i.ibb.co/ZXpLSzn/finalll.png' />
-
-
-
-
-
+<!-- <img src='https://i.ibb.co/HFvQFvM/test.png' /> -->
+<!-- <img  src='https://i.ibb.co/ZXpLSzn/finalll.png' /> -->
+<img  src='https://i.ibb.co/8z3gkFV/finallll1.png' />
 
 
 <p align="center">✨ Hi guys, I'm Jasur. I am a JavaScript developer from Tashkent, Uzbekistan. I'm currently working @ <a href='https://uic.group'  target="blank">uicgroup</a> as a Font-End engineer.
