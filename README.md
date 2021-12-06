@@ -2,7 +2,7 @@
 
 
 <!-- <img src='https://i.ibb.co/mRh31x3/test.png'/> -->
-<img align="center" src='https://i.ibb.co/HFvQFvM/test.png' />
+<img style='width: 100%' src='https://i.ibb.co/HFvQFvM/test.png' />
 
 
 
