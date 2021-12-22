@@ -17,7 +17,7 @@ I have done many works with JavaScript, Vue and React in there. Aside from my jo
 
 - 🌱 I’m currently learning Three js, GSAP and Typescript
 
-- 💬 Ask me about anything related to Javascript or Vue/React/Nuxt/
+- 💬 Ask me about anything related to Javascript or Vue/React/Nuxt
 
 - 📫 How to reach me: <a href='https://t.me/norjs'  target="blank">@norjs</a> or <a  target="blank" href='https://www.linkedin.com/in/norbekov/'>@norbekov</a>
 
