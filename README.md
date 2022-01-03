@@ -21,7 +21,7 @@ I have done many works with JavaScript, Vue and React there. Aside from my job, 
 
 - 📫 How to reach me: <a href='https://t.me/norjs'  target="blank">@norjs</a> or <a  target="blank" href='https://www.linkedin.com/in/norbekov/'>@norbekov</a>
 
-- 👀 Looking Forward to contribute more to open source projects.
+- 👀 Looking Forward to contribute more to open source projects
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="20" height="20"/> Fun fact I use VIM and I ❤️ 🐶s
 
