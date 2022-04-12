@@ -13,15 +13,15 @@ I have done many works with JavaScript, Vue and React there. Aside from my job, 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbekoff&label=Profile%20views&color=0e75b6&style=flat" alt="norbekoff" /> </p>
 
-- 🔭 I’m currently working on something cool <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="20" height="20"/>
+-  I’m currently working on something cool 
 
-- 🌱 I’m currently learning Three js, GSAP and Typescript
+-  I’m currently learning Three js, GSAP and Typescript
 
-- 💬 Ask me about anything related to Javascript or Vue/React/Nuxt
+-  Ask me about anything related to Javascript or Vue/React/Nuxt
 
-- 📫 How to reach me: <a href='https://t.me/norjs'  target="blank">@norjs</a> or <a  target="blank" href='https://www.linkedin.com/in/norbekov/'>@norbekov</a>
+-  How to reach me: <a href='https://t.me/norjs'  target="blank">@norjs</a> or <a  target="blank" href='https://www.linkedin.com/in/norbekov/'>@norbekov</a>
 
-- 👀 Looking Forward to contribute more to open source projects
+-  Looking Forward to contribute more to open source projects
 
 - Fun fact I use VIM and I ❤️ 🐶s
 
