@@ -33,9 +33,6 @@ I have done many works with JavaScript, Vue and React there. Aside from my job, 
  <a href="https://www.codewars.com/users/norbekoff" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/jasurbeknorbekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jasurbeknorbekov" height="30" width="40" /></a>
   <a href="https://www.upwork.com/freelancers/~0183f6313f4239bd62" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt=https://www.upwork.com/freelancers/~0183f6313f4239bd62" height="30" width="40" /></a>
-    
-    
-    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
