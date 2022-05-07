@@ -23,7 +23,7 @@ I have done many works with JavaScript, Vue and React there. Aside from my job, 
 
 -  Looking Forward to contribute more to open source projects
 
-- Fun fact I use VIM and I ❤️ 🐶s
+- Fun fact I use VIM and ❤️ 🐶s
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
