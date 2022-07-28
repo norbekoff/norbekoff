@@ -13,7 +13,7 @@ I have done many works with JavaScript, Vue and React. Aside from my job, I like
 
 -  I’m currently working on something cool 
 
--  I’m currently learning Advanced JS
+-  I’m currently learning Advanced JS, Data Structures and Algorithms
 
 -  Ask me about JavaScript or Vue/React/Nuxt
 
