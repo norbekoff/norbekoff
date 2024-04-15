@@ -5,8 +5,8 @@
 <!-- <img  src='https://i.ibb.co/ZXpLSzn/finalll.png' /> -->
 <img  src='https://i.ibb.co/8z3gkFV/finallll1.png' />
 
-<p align="center"> I am a JavaScript developer from Tashkent, Uzbekistan. I'm currently working @ <a href='https://www.amcbridge.com/'  target="blank">company x</a> as a software engineer.
-I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. I take great care in the experience, architecture, and code quality of the things I build.
+<p align="center"> I am a software engineer from Tashkent, Uzbekistan. 
+I take great care in the experience, architecture, and code quality of the things I build.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbekoff&label=Profile%20views&color=0e75b6&style=flat" alt="norbekoff" /> </p>
