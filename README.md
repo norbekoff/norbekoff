@@ -5,9 +5,6 @@
 <!-- <img  src='https://i.ibb.co/ZXpLSzn/finalll.png' /> -->
 <img  src='https://i.ibb.co/8z3gkFV/finallll1.png' />
 
-<p align="center"> I am a software engineer from Tashkent, Uzbekistan. 
-I take great care in the experience, architecture, and code quality of the things I build.
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbekoff&label=Profile%20views&color=0e75b6&style=flat" alt="norbekoff" /> </p>
 
