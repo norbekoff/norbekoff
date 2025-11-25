@@ -10,7 +10,7 @@
 
 -  I’m currently working on something cool 
 
--  I’m currently learning Advanced JS, Data Structures and Algorithms
+-  I’m currently learning Data Structures and Algorithms
 
 -  Ask me about JavaScript or Vue/React/Nuxt
 
