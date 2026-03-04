@@ -10,9 +10,9 @@
 
 -  I’m currently working on something cool 
 
--  I’m currently learning Data Structures and Algorithms
+-  I’m currently diving deep into Software engineering
 
--  Ask me about JavaScript or Vue/React/Nuxt
+-  Ask me about JavaScript 
 
 -  How to reach me: <a href='https://t.me/norjs'  target="blank">@norjs</a> or <a  target="blank" href='https://www.linkedin.com/in/norbekov/'>@norbekov</a>
 
